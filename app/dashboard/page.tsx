@@ -165,8 +165,8 @@ export default function DashboardPage() {
     );
   }
 
-  const uniqueProperties = [...new Set(reviews.map(r => r.listingId))];
-  const uniqueChannels = [...new Set(reviews.map(r => r.channel))];
+  const uniqueProperties = Array.from(new Set(reviews.map(r => r.listingId)));
+  const uniqueChannels = Array.from(new Set(reviews.map(r => r.channel)));
 
   return (
     <div className="min-h-screen bg-background">
