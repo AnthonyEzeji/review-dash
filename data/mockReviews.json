@@ -1,0 +1,199 @@
+{
+  "hostaway": {
+    "status": "success",
+    "result": [
+      {
+        "id": 7453,
+        "type": "host-to-guest",
+        "status": "published",
+        "rating": null,
+        "publicReview": "Shane and family are wonderful! Would definitely host again :)",
+        "reviewCategory": [
+          {
+            "category": "cleanliness",
+            "rating": 10
+          },
+          {
+            "category": "communication",
+            "rating": 10
+          },
+          {
+            "category": "respect_house_rules",
+            "rating": 10
+          }
+        ],
+        "submittedAt": "2020-08-21 22:45:14",
+        "guestName": "Shane Finkelstein",
+        "listingName": "2B N1 A - 29 Shoreditch Heights"
+      },
+      {
+        "id": 7454,
+        "type": "guest-to-host",
+        "status": "published",
+        "rating": 4,
+        "publicReview": "Great location in Shoreditch! The apartment was clean and well-equipped. Minor issue with the Wi-Fi on day 2 but was resolved quickly. Would recommend to others.",
+        "reviewCategory": [
+          {
+            "category": "cleanliness",
+            "rating": 9
+          },
+          {
+            "category": "communication",
+            "rating": 8
+          },
+          {
+            "category": "location",
+            "rating": 10
+          },
+          {
+            "category": "value",
+            "rating": 8
+          }
+        ],
+        "submittedAt": "2023-11-15 14:32:10",
+        "guestName": "Emily Chen",
+        "listingName": "2B N1 A - 29 Shoreditch Heights"
+      },
+      {
+        "id": 7455,
+        "type": "guest-to-host",
+        "status": "published",
+        "rating": 5,
+        "publicReview": "Absolutely perfect stay! The flat exceeded our expectations. Modern amenities, spotless condition, and the location couldn't be better. Host was very responsive.",
+        "reviewCategory": [
+          {
+            "category": "cleanliness",
+            "rating": 10
+          },
+          {
+            "category": "communication",
+            "rating": 10
+          },
+          {
+            "category": "location",
+            "rating": 10
+          },
+          {
+            "category": "value",
+            "rating": 9
+          },
+          {
+            "category": "amenities",
+            "rating": 10
+          }
+        ],
+        "submittedAt": "2023-12-02 09:15:33",
+        "guestName": "Marcus Johnson",
+        "listingName": "1B S2 B - 15 Camden Lock View"
+      },
+      {
+        "id": 7456,
+        "type": "guest-to-host",
+        "status": "published",
+        "rating": 3,
+        "publicReview": "The apartment has potential but needs some attention. The heating wasn't working properly during our stay and the bathroom could use updating. Location is good though.",
+        "reviewCategory": [
+          {
+            "category": "cleanliness",
+            "rating": 7
+          },
+          {
+            "category": "communication",
+            "rating": 6
+          },
+          {
+            "category": "location",
+            "rating": 8
+          },
+          {
+            "category": "value",
+            "rating": 6
+          },
+          {
+            "category": "amenities",
+            "rating": 5
+          }
+        ],
+        "submittedAt": "2023-11-28 16:45:22",
+        "guestName": "Sarah Thompson",
+        "listingName": "Studio E1 C - 8 Canary Wharf Tower"
+      },
+      {
+        "id": 7457,
+        "type": "guest-to-host",
+        "status": "published",
+        "rating": 4,
+        "publicReview": "Nice stay overall. The apartment was as described and check-in was smooth. Would have liked better coffee facilities but that's a minor point. Good value for London.",
+        "reviewCategory": [
+          {
+            "category": "cleanliness",
+            "rating": 8
+          },
+          {
+            "category": "communication",
+            "rating": 9
+          },
+          {
+            "category": "location",
+            "rating": 8
+          },
+          {
+            "category": "value",
+            "rating": 8
+          }
+        ],
+        "submittedAt": "2023-12-05 11:20:45",
+        "guestName": "David Rodriguez",
+        "listingName": "1B S2 B - 15 Camden Lock View"
+      },
+      {
+        "id": 7458,
+        "type": "guest-to-host",
+        "status": "published",
+        "rating": 5,
+        "publicReview": "Outstanding experience from start to finish! The property was immaculate, beautifully designed, and had everything we needed. The location in Shoreditch was perfect for exploring London.",
+        "reviewCategory": [
+          {
+            "category": "cleanliness",
+            "rating": 10
+          },
+          {
+            "category": "communication",
+            "rating": 10
+          },
+          {
+            "category": "location",
+            "rating": 10
+          },
+          {
+            "category": "value",
+            "rating": 9
+          },
+          {
+            "category": "amenities",
+            "rating": 10
+          }
+        ],
+        "submittedAt": "2023-12-08 20:33:17",
+        "guestName": "Lisa Anderson",
+        "listingName": "2B N1 A - 29 Shoreditch Heights"
+      }
+    ]
+  },
+  "google": [
+    {
+      "author_name": "John Smith",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Fantastic serviced apartments! Stayed here for a business trip and couldn't have been happier. Clean, modern, and great location.",
+      "time": 1701360000
+    },
+    {
+      "author_name": "Amanda Wilson",
+      "rating": 4,
+      "relative_time_description": "1 month ago",
+      "text": "Good value for money in London. The apartment was well-equipped and comfortable. Minor noise from the street but overall a pleasant stay.",
+      "time": 1698768000
+    }
+  ]
+} 
