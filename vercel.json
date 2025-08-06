@@ -1,0 +1,41 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "devCommand": "npm run dev",
+  "functions": {
+    "app/api/reviews/route.ts": {
+      "maxDuration": 30
+    },
+    "app/api/reviews/hostaway/route.ts": {
+      "maxDuration": 30
+    },
+    "app/api/reviews/google/route.ts": {
+      "maxDuration": 30
+    }
+  },
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "s-maxage=300, stale-while-revalidate=59"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/reviews",
+      "destination": "/dashboard",
+      "permanent": true
+    },
+    {
+      "source": "/admin",
+      "destination": "/dashboard",
+      "permanent": true
+    }
+  ]
+} 
